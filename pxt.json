@@ -3,7 +3,11 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "radio": "*"
+        "servo": "*",
+        "MotionKit": "github:tinysuperlab/motionkit#8a418692373682103b9547a8a241de1777cc5b92",
+        "TouchKit": "github:tinysuperlab/touchkit#4d1b679d18354185686329e31826fcc0ee909421",
+        "radio-broadcast": "*",
+        "Grove": "github:calliope-edu/pxt-grove#v0.2.7"
     },
     "files": [
         "main.blocks",
